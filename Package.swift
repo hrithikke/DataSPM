@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "StyliticsData",
-                      url: "https://github.com/hrithikke/DataZip/archive/refs/heads/main.zip",
+                      url: "https://github.com/hrithikke/DataZip/blob/main/StyliticsData.xcframework.zip",
                       checksum: "6604db79e9ea8eb3726d4908db9cb835e635afdc961b3f43ef8ad69da66db333")
     ]
 )
